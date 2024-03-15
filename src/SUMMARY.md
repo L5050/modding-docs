@@ -41,3 +41,6 @@
     - [Audio Functions](./modding/references/evt/global_apifuncs/audio.md)
     - [FX Functions](./modding/references/evt/global_apifuncs/fx.md)
     - [Virtual Entity Functions](./modding/references/evt/global_apifuncs/virtual_entity.md)
+
+# Super Paper Mario (Wii)
+- [Flipside Mod Manager](./tools/flipside/00_Introduction.md)
